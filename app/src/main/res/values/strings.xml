@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">A1_221A310077</string>
+
+    <string name="title">Lab A1 – Vòng đời Activity</string>
+
+    <string name="student">Lê Thị Trúc Giang – MSSV 221A310077</string>
+
+    <string name="clear">Xóa log</string>
+
+    <string name="crash">Gây lỗi</string>
+
+    <string name="finish">Thoát</string>
+
+    <string name="callback_count">Số lần gọi callback</string>
+
+</resources>
